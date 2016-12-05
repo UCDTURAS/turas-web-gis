@@ -1,4 +1,4 @@
-Design Intent
+#Design Intent
 The TURAS City Viewer provides layers of city wide data and information, supplied by local authorities, academic institutions and SME’s. The purpose of the TURAS city viewer is to provide the context for the TURAS case study areas and to view, interpret and visualize relevant spatial data. Using the city viewer, you can also add comments / text / photographs to the map using the Geowiki tool. Current datasets include land use, land zoning, boundaries, socio-economic data, built environment, ecosystems and transportation and street network.
 Contact Details: University College Dublin were responsible for the technical development and integration of the webGIS portal for the various city viewers. 
 
